@@ -1,0 +1,18 @@
+{
+  "$type": "ThunderRoad.LevelData, Assembly-CSharp",
+  "id": "Master",
+  "version": 2,
+  "modes": [
+    {
+      "name": "Default",
+      "modules": [
+        {
+          "$type": "TimeStopSpell.TimeStopSpellLevelModule, TimeStopSpell"
+        },
+        {
+          "$type": "TimeStopSpell.TimeStopSpellTestingLevelModule, TimeStopSpell"
+        }
+      ]
+    }
+  ]
+}
